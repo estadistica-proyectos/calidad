@@ -38,7 +38,7 @@ En un estudio de capacidad para este proceso es necesario contestar las siguient
 
 Para contestar estas preguntas, durante una semana se obtuvieron de una línea de producción los 125 datos de la tabla. El muestreo fue sistemático: cada determinado tiempo se tomaban cinco productos y se medían y al final de la semana se tuvieron los datos referidos.
 - Media muestral.
--Mediana. Cuartiles.
+- Mediana. Cuartiles.
 - Moda.
 - Desviación estándar muestral
 - Coeficiente de Variación.
